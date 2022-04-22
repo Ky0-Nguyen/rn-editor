@@ -1,5 +1,4 @@
 function getContentCSS() {
-    /*img {max-width: 98%;margin-left:auto;margin-right:auto;display: block;}*/
     return `
     <style>
         video {max-width: 98%;margin-left:auto;margin-right:auto;display: block;}
