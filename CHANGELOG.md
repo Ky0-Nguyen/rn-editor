@@ -5,13 +5,13 @@
 
 #1.8.7
 ### Fix
-- Fix Non-rendering problems caused by transparency  [[issues](https://github.com/wxik/react-native-rich-editor/issues/132)]
+- Fix Non-rendering problems caused by transparency  [[issues](https://github.com/Ky0-Nguyen/rn-editor/issues/132)]
 
 #1.8.6
 ### Changed
 - Add `autoCorrect` props of default false
 ### PR
-- [initialCSSText](https://github.com/wxik/react-native-rich-editor/pull/111)
+- [initialCSSText](https://github.com/Ky0-Nguyen/rn-editor/pull/111)
 ### Added
 - `onInput` callback input value
 ### Fix
@@ -24,7 +24,7 @@
 
 #1.8.2 - 1.8.3
 ###Fix
-- Fix Some input methods appear on the screen in English  [#154](https://github.com/wxik/react-native-rich-editor/issues/154)
+- Fix Some input methods appear on the screen in English  [#154](https://github.com/Ky0-Nguyen/rn-editor/issues/154)
 - Fix The cursor positioning problem after getting the focus in the `ScrollView`
 
 #1.8.1
@@ -54,7 +54,7 @@
 - `setFontName` Changes the font name for the selection or at the insertion point. This requires a font name string (like "Arial") as a value argument.
 
 ### Fix
-- [Toolbar active/inactive](https://github.com/wxik/react-native-rich-editor/issues/141)
+- [Toolbar active/inactive](https://github.com/Ky0-Nguyen/rn-editor/issues/141)
 - Adjust the format of `insertImage` to solve the bug that the picture cannot be deleted
 
 #1.6.5
@@ -86,7 +86,7 @@ Changed
 - Add `firstFocusEnd` to Editor When first gaining focus, the cursor moves to the end of the text
 
 ### Fix
-- [Toolbar buttons activate/deactivate](https://github.com/wxik/react-native-rich-editor/issues/101)
+- [Toolbar buttons activate/deactivate](https://github.com/Ky0-Nguyen/rn-editor/issues/101)
 
 ## 1.5.2
 ### Added
@@ -95,7 +95,7 @@ Changed
 
 ### Fix
 - Keyboard listener on unmount
-- placeholder does not restore [issues 121](https://github.com/wxik/react-native-rich-editor/issues/121)
+- placeholder does not restore [issues 121](https://github.com/Ky0-Nguyen/rn-editor/issues/121)
 
 ## 1.5.1
 #### Added

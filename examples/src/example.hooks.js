@@ -33,7 +33,7 @@ const imageList = [
 const initHTML = `<br/>
 <center><b onclick="_.sendEvent('TitleClick')" id="title" contenteditable="false">Rich Editor</b></center>
 <center>
-<a href="https://github.com/wxik/react-native-rich-editor">React Native</a>
+<a href="https://github.com/Ky0-Nguyen/rn-editor">React Native</a>
 <span>And</span>
 <a href="https://github.com/wxik/flutter-rich-editor">Flutter</a>
 </center>
